@@ -1,0 +1,32 @@
+Support agreement
+#####
+HPE Complete Care SVC
+
+
+
+  HPE Software Technical Unlimited Support
+10-May-2017
+09-May-2022
+Active
+  HPE Software Updates SVC
+10-May-2017
+09-May-2022
+Active
+  HPE Hardware Maintenance Onsite Support
+10-May-2017
+09-May-2022
+Active
+  HPE Collaborative Remote Support
+10-May-2017
+09-May-2022
+Active
+Base Warranty
+2M271802MD
+Wty: HPE HW Maintenance Onsite Support
+08-May-2017
+14-May-2020
+Expired
+Wty: HPE Support for Initial Setup
+08-May-2017
+12-Aug-2017
+Expired
